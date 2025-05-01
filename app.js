@@ -132,7 +132,7 @@ app.get("/logout", (req, res) => {
   res.redirect("/");
 });
 
-// どのルートにも一致しなかった場合（404）
+// 存在しないURL（どのルートにもマッチしなかったリクエスト）を処理する
 app.use((req, res) => {
   res.status(404);
   res.render("404");
