@@ -1,0 +1,15 @@
+Student Name: Jun
+Student Set: C
+
+[x] The signout buttons end the session.
+[x] The .env file is NOT in your git repo.
+[x] The members only page shows random images.
+[x] Sessions expire after 1 hour.
+[x] Joi is used to validate inputs.
+[x] Passwords are encrypted using bcrypt.
+[x] The users database is stored in MongoDB.
+[x] The session database is stored in MongoDB.
+[x] The site is deployed using Render.
+[x] Invalid URLs go to a 404 page.
+
+Total: 50/50
