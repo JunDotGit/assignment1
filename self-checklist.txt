@@ -1,4 +1,4 @@
-Student Name: Jun
+Student Name: Jun Morimoto
 Student Set: C
 
 [x] The signout buttons end the session.
